@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sigheileo
-- 👀 I’m interested in in both cybersecurity and cloud computing
+- 👀 I’m interested in both cybersecurity and cloud computing. But much interest in cyberworld
 - 🌱 I’m currently learning I am currently learning Ehical hacker by Eccouncil
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
